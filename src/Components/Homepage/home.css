@@ -1,0 +1,15 @@
+.divsuper h2 {
+    padding-top: 70px;
+    padding-bottom: 20px;
+    margin-left: 270px;
+}
+img {
+    border-radius: 60px;
+    opacity: 0.8;
+  }
+  .image-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
