@@ -18,7 +18,7 @@ const Home = () => {
        <div>
          <img class="image-center" src={image} alt="..."></img>
        </div>
-       <CardItem />
+      
      
     </div>
   )
